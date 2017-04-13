@@ -8,7 +8,7 @@ import static org.apache.commons.lang.StringUtils.isNotBlank;
 @AllArgsConstructor
 @NoArgsConstructor
 public class User {
-
+ 
     private String firstname;
     private String lastname;
     private Integer age;
